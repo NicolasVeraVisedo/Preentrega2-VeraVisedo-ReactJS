@@ -8,12 +8,19 @@
 
   .navbar-nav {
     margin-left: 500px;
-  }
+    
+    .nav-item{
+      margin-right: 10px;
+    }
 
-  .nav-link.active {
-    background-color: black;
-    border-radius: 50px;
-    color: rgb(255, 255, 255);
+    .nav-item:hover {
+      p {
+        color: rgb(255, 255, 255);
+        margin-top: 10px;
+      }
+      background-color: rgba(255, 0, 0, 0.5);
+      border-radius: 50px;
+    }
   }
 }
 
