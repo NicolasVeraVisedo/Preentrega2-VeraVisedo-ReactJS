@@ -2,7 +2,7 @@ const productos = [
   {
     id: "Collar-1",
     nombre: "Cadena con corazón",
-    descripcion: "1 cadena con 1 dije corazón en plata 925",
+    descripcion: "Una cadena con un dije corazón en plata 925",
     precio: 50000,
     categoria: "collares",
     stock: 10,
@@ -11,7 +11,7 @@ const productos = [
   {
     id: "Collar-2",
     nombre: "Cadena con inicial",
-    descripcion: "1 cadena con 1 dije inicial en plata 925",
+    descripcion: "Una cadena con un dije inicial en plata 925",
     precio: 50000,
     categoria: "collares",
     stock: 2,
